@@ -4,3 +4,47 @@
     Description: Theme for Epicure 
     Version: 1.0
 */
+
+/** Globals **/
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/** Header **/
+
+.site-header .navigation-bar {
+    display: flex;
+}
+
+.site-header .navigation-bar .logo {
+    display: flex;
+    margin-right: 20px;
+}
+
+.site-header .navigation-bar .logo h1 {
+    padding: 0;
+    margin: 0;
+}
+
+.site-header .navigation-bar .menu-main-navigation-container .menu {
+    display: flex;
+}
+
+.site-header .navigation-bar .menu-main-navigation-container .menu li {
+    margin-right: 10px;
+}
+
+.site-header .navigation-bar .icons {
+    display: flex;
+    margin-left: auto;
+}
+
+.site-header .navigation-bar .icons a {
+    margin: 0px 4px;
+}
