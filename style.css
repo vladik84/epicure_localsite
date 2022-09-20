@@ -20,6 +20,7 @@ ul {
 
 .site-header .navigation-bar {
     display: flex;
+    margin: auto 100px;
 }
 
 .site-header .navigation-bar .logo {
